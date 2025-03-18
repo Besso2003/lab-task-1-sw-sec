@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cstdlib>  // Required for srand() and rand()
+#include <cstdlib>  
 
 using namespace std;
 
